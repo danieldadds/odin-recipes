@@ -1,2 +1,0 @@
-This is the first project assigned on the Odin Projet. The task is to create a simple recipes website using what I have learned so far on the course.
-Once completed I will have demonstrated how to use HTML to build the structure of the website, as well was familiarizing myself with Git and GitHub. 
